@@ -1,0 +1,12 @@
+{
+  "name": "back-to-the-basics-workshop",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node objects/part1.js"
+  },
+  "author": "Guillermo Gutierrez Almazor",
+  "license": "ISC",
+  "dependencies": {},
+  "keywords": [],
+  "description": ""
+}
