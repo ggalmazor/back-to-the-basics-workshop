@@ -6,7 +6,9 @@
   },
   "author": "Guillermo Gutierrez Almazor",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "sleep": "^6.3.0"
+  },
   "keywords": [],
   "description": ""
 }
