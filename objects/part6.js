@@ -1,17 +1,11 @@
 function Greeter2(name) {
-  function log(msg) {
-    console.log(msg);
-  }
+  const log = msg => console.log(msg);
 
-  function greet(otherName) {
-    log(`Hi, ${otherName}! I'm ${name}`);
-  }
+  const greet = otherName => log(`Hi, ${otherName}! I'm ${name}`);
 
-  function sayGoodbye() {
-    log(`${name} out! Peace! 🎤`);
-  }
+  const sayGoodbye = () => log(`${name} out! Peace! 🎤`);
 
-  return { greet, sayGoodbye };
+  return {greet, sayGoodbye};
 }
 
 const greeter = Greeter2("Guillermo");

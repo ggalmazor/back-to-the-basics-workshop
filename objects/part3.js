@@ -12,15 +12,4 @@ const guille = new Person("Guillermo");
 
 guille.greet("Javier");
 
-/* 
-
-console.dir(guille);
-console.dir(guille.__proto__, { showHidden: true, depth: 0 });
-console.dir(guille.__proto__.__proto__, { showHidden: true, depth: 0 });
-console.dir(guille.__proto__.__proto__.__proto__);
-
-//guille.constructor("bar");
-//guille.constructor.call({}, "baz");
-//Person("foo");
-
-*/
+console.log(guille.name);

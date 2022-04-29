@@ -1,13 +1,11 @@
-function Greeter(name) {
+function Greeter(first_name, last_name) {
+  const full_name = `${first_name} ${last_name}`;
+
   return function (otherName) {
-    console.log(`Hi, ${otherName}! I'm ${name}`);
+    console.log(`Hi, ${otherName}! I'm ${full_name}`);
   };
 }
 
-const greetAsGuille = Greeter("Guillermo");
+const greetAsGuille = Greeter("Guillermo", "Gutierrez");
 greetAsGuille("Javier");
 
-console.dir(greetAsGuille);
-console.dir(greetAsGuille.__proto__, { showHidden: true, depth: 0 });
-console.dir(greetAsGuille.__proto__.__proto__);
-console.dir(greetAsGuille.__proto__.__proto__.__proto__);

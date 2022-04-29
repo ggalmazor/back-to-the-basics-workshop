@@ -1,41 +1,32 @@
-let foo = { a: 44 };
-
-console.log(`foo.a: ${foo.a}`);
-console.log(`foo["a"]: ${foo["a"]}`);
-
-/*
-
 const a = 1;
 
 function fooFn() {
+
   const c = 42;
   console.log(`a: ${a}, this.b: ${this.b}, c: ${c}`);
 }
+let foo = { a: 44 };
 
 const bar = {
   b: 33,
   foo: fooFn
 };
 
-fooFn();
+
+
 bar.foo();
 
-/*
+function call_as_method_of(object, method_name) {
+  (object[method_name]).call(object);
+}
 
-fooFn.call({ b: 22 });
-bar.foo.call({ b: 44 });
+call_as_method_of(bar, 'foo');
 
-/*
 
-bar.foo.call(bar);
 
-/*
 
-console.dir({});
-console.dir({}.__proto__, { showHidden: true, depth: 0 });
-console.dir({}.__proto__.__proto__);
 
-/*
+
 
 console.log(`${bar.a}`);
 
@@ -43,4 +34,6 @@ bar.__proto__ = foo;
 
 console.log(`${bar.a}`);
 
-*/
+bar.a = 55;
+
+console.log(`${bar.a}`);
