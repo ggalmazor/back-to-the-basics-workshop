@@ -2,7 +2,7 @@
 const blabla = 43;
 const cocotero = a => a + blabla;
 
-function chuchu() {
+function chuchu(a ) {
   return a => a + 1;
 }
 
