@@ -22,18 +22,19 @@
 
 --- 
 
+# You (the audience)
 ## Are you a trainer? experience giving workshops?
 
 ---
-
+# You (the audience)
 ## Experience with javascript?
 
 ---
-
+# You (the audience)
 ## Role in teams?
 
 ---
-
+# You (the audience)
 ## Which concepts do you already know from <<this list>>?
 
 ---
