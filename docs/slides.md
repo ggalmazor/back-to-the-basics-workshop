@@ -47,7 +47,7 @@ Installation and  Exercises Part I
 
 # Quizz (10mins.)
 
-Part I & II: questions and concepts
+[Part I & II: questions and concepts](https://presenter.ahaslides.com/presentation/3099113)
 
 ---
 
@@ -65,7 +65,7 @@ Installation and  Exercises Part I
 
 #  How to combine 2h workshops into larger trainings
 
-- <<link>>
+- << 
 
 ---
 
