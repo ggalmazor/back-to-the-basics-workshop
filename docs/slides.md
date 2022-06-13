@@ -8,26 +8,27 @@
 # Agenda
  
 - We (5 mins.)
-- You  (5 mins.)
-- Hands-on  (5 mins.)
-- Quizz  (5 mins.)
-- Showcase  (5 mins.)
-- Hands-on  (5 mins.)
-- Short-talk
-- Closing
+- You  (10 mins.)
+- Hands-on  (30 mins.)
+- Quizz  (10 mins.)
+- Showcase  (10 mins.)
+- Hands-on  (15 mins.)
+- Short-talk (7 mins.)
+- Closing (3 mins.)
 
 --- 
 
 # You (the audience) (10mins.)
+## Put your hands up
 
 --- 
 
-# You (the audience)
-## Are you a trainer? experience giving workshops?
+# Are you a trainer? experience giving workshops?
+## You (the audience)
 
 ---
-# You (the audience)
-## Experience with javascript?
+# Experience with javascript?
+## You (the audience)
 
 ---
 # You (the audience)
@@ -35,8 +36,14 @@
 
 ---
 # You (the audience)
-## Which concepts do you already know from <<this list>>?
+## Which concepts do you already know from ...?
 
+|                       |   |                                   |               |
+|-------------------------------------------|----------------------|-----------------------------------------|-------------------------|
+| Repetición espaciada                      | Práctica entrelazada | Recall                                  | Pecha Kucha             |
+| Elaboración                               | closures             | console.dir()                           | Objeto literal          |
+| Function (are objects)                    |  call method         | Prototypes: __proto__ & prototype chain | Es6 class               |
+| Class, this, new, constructor without es6 | Private attribute    | Module                                  | Self-executing function |
 ---
 
 # Hands-on (30mins.)
@@ -65,7 +72,7 @@ Installation and  Exercises Part I
 
 #  How to combine 2h workshops into larger trainings
 
-- << 
+- <<keynote>> 
 
 ---
 
