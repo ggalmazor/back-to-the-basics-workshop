@@ -4,6 +4,8 @@
 
 ... are hiring (my friend)
 
+![](lf-logo.png)
+
 ---
 # Agenda
  
@@ -70,9 +72,10 @@ Installation and  Exercises Part I
 
 ---
 
-#  How to combine 2h workshops into larger trainings
+# Short talk
 
-- <<keynote>> 
+## How to combine 2h workshops into larger trainings
+
 
 ---
 
