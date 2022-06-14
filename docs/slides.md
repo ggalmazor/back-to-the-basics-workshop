@@ -6,13 +6,15 @@
 
 ![](lf-logo.png)
 
+Disclaimer: we are not experts, only trying to improve
+
 ---
 # Agenda
  
 - We (5 mins.)
 - You  (10 mins.)
 - Hands-on  (30 mins.)
-- Quizz  (10 mins.)
+- Quiz  (10 mins.)
 - Showcase  (10 mins.)
 - Hands-on  (15 mins.)
 - Short-talk (7 mins.)
@@ -54,7 +56,7 @@ Installation and  Exercises Part I
 
 ---
 
-# Quizz (10mins.)
+# Quiz (10mins.)
 
 [Part I & II: questions and concepts](https://presenter.ahaslides.com/presentation/3099113)
 
