@@ -97,7 +97,7 @@ Our companies are also looking for people like you
 
 # **Quiz**
 
-[Part I & II: questions and concepts](https://presenter.ahaslides.com/presentation/3099113)
+[Part I & II: questions and concepts](https://ahaslides.com/SEU5M)
 
 ---
 <!-- footer: "10 minutes" -->
@@ -111,14 +111,14 @@ More crazy things about objects and classes
 
 # **Hands-on session**
 
-Installation and  Exercises Part I
+## Installation and  Exercises Part II
 
 ---
 <!-- footer: "15 minutes" -->
 
 # **Short talk**
 
-## How to combine 2h workshops into larger trainings
+## Better trainings: energy, recall, repetition
 
 
 ---
