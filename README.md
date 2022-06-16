@@ -8,7 +8,7 @@ You can create a [codesandbox.io](https://codesandbox.io/) sandbox by importing 
 
 ### On your computer
 
-This repo has a `.tool-versions` file for convenience. You can use ADSF to install Node. 
+This repo has a `.tool-versions` file for convenience. You can use [ADSF](https://asdf-vm.com/) to install Node with it. 
 
 Any setup with NodeJS v14 or greater should be enough for this repo.
 
