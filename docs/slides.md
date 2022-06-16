@@ -1,93 +1,137 @@
-<!-- theme: default -->
+---
+theme: gaia
+_class: lead
+paginate: true
+backgroundColor: #fff
+backgroundImage: url('https://marp.app/assets/hero-background.svg')
+marp: true
+---
+<!-- footer: "5 minutes" -->
 
-# We (5mins.)
+<style>
+table {
+  font-size: .7em;
+  width: 100%;
+  height: 60%;
+}
+table th {
+    display: none;
+}
+table td {
+    text-align: center;
+}
+</style>
 
-... are hiring (my friend)
+# **Us**
 
-![](lf-logo.png)
+## We are just a couple of guys in front of you
 
-Disclaimer: we are not experts, only trying to improve
+Our companies are also looking for people like you
+
+![width:350px](lf-logo.png)
+![width:250px](dnsimple-logo.png)
 
 ---
-# Agenda
- 
-- We (5 mins.)
+ <!-- footer: "" -->
+
+# **Agenda**
 - You  (10 mins.)
-- Hands-on  (30 mins.)
+- Hands-on session (30 mins.)
 - Quiz  (10 mins.)
 - Showcase  (10 mins.)
-- Hands-on  (15 mins.)
+- Hands-on session (15 mins.)
 - Short-talk (7 mins.)
 - Closing (3 mins.)
 
 --- 
+<!-- footer: "10 minutes" -->
 
-# You (the audience) (10mins.)
+# **You** 
 ## Put your hands up
 
 --- 
+<!-- footer: "10 minutes" -->
 
-# Are you a trainer? experience giving workshops?
-## You (the audience)
+# **You**
 
----
-# Experience with javascript?
-## You (the audience)
-
----
-# You (the audience)
-## Role in teams?
+## Are you a trainer? 
+## Do you have experience facilitating workshops?
 
 ---
-# You (the audience)
-## Which concepts do you already know from ...?
+<!-- footer: "10 minutes" -->
 
-|                       |   |                                   |               |
-|-------------------------------------------|----------------------|-----------------------------------------|-------------------------|
-| Repetición espaciada                      | Práctica entrelazada | Recall                                  | Pecha Kucha             |
-| Elaboración                               | closures             | console.dir()                           | Objeto literal          |
-| Function (are objects)                    |  call method         | Prototypes: __proto__ & prototype chain | Es6 class               |
-| Class, this, new, constructor without es6 | Private attribute    | Module                                  | Self-executing function |
----
+# **You**
 
-# Hands-on (30mins.)
-
-Installation and  Exercises Part I
+## Do you have experience with JavaScript?
 
 ---
+<!-- footer: "10 minutes" -->
 
-# Quiz (10mins.)
+# **You**
+
+## What's your role in your team?
+
+---
+<!-- footer: "10 minutes" -->
+
+# **You**
+
+## Could you explain any of these concepts?
+
+|   |   |   |   |
+|---|---|---|---|
+| Repetición espaciada | Práctica entrelazada | Recall | Pecha Kucha |
+| Elaboración | Closures | console.dir() | Objeto literal |
+| Functions as objects | `.call` | `__proto__` | ES6 `class` |
+| `this`, `new` | Private class attributes | Module pattern | Self-executing function |
+
+---
+<!-- footer: "30 minutes" -->
+
+# **Hands-on session**
+
+## Installation and  Exercises Part I
+
+---
+<!-- footer: "10 minutes" -->
+
+# **Quiz**
 
 [Part I & II: questions and concepts](https://presenter.ahaslides.com/presentation/3099113)
 
 ---
+<!-- footer: "10 minutes" -->
 
-# Showcase (10mins.)
+# **Showcase**
 
 More crazy things about objects and classes
 
 ---
+<!-- footer: "30 minutes" -->
 
-# Hands-on (30mins.)
+# **Hands-on session**
 
 Installation and  Exercises Part I
 
 ---
+<!-- footer: "15 minutes" -->
 
-# Short talk
+# **Short talk**
 
 ## How to combine 2h workshops into larger trainings
 
 
 ---
+<!-- footer: "3 minutes" -->
 
-# Take away
+# **Take away**
 
 > Designing workshops is about organizing repetition, Javascript is weird because...
 
 ---
+<!-- footer: "3 minutes" -->
 
-# Resources
+# **Resources**
 
 - [Barbara Oakley](https://www.amazon.com/-/es/Barbara-Oakley-PhD/e/B000AP9ZR4/ref=dp_byline_cont_pop_book_1)
 - [Hector Ruiz Martin](https://twitter.com/hruizmartin/status/1231128787494068224)
