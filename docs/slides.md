@@ -155,7 +155,9 @@ a {
 
 # **Take away**
 
-> Designing workshops is about organizing repetition, Javascript is weird because...
+> Designing workshops is about organizing repetition
+
+> JavaScript stops feeling complex once you understand some basic inner-workings
 
 ---
 <!-- footer: "3 minutes" -->
