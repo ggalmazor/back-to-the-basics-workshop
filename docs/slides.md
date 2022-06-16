@@ -110,7 +110,7 @@ a {
 <!-- footer: "10 minutes" -->
 <style scoped>
 a {
-    font-size: 2em;
+    font-size: 1.7em;
     text-decoration: none;
 }
 </style>
@@ -118,7 +118,8 @@ a {
 # **Quiz**
 
 ## Part I & II: questions and concepts
-# bit.ly/3b0FoWz
+
+# ahaslides.com/SEU5M
 
 ---
 <!-- footer: "10 minutes" -->
@@ -147,7 +148,7 @@ a {
 
 # **Short talk**
 
-## How to combine 2h workshops into larger trainings
+## Better trainings: energy, recall, repetition
 
 ---
 <!-- footer: "3 minutes" -->
