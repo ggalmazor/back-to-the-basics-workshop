@@ -93,10 +93,18 @@ table td {
 
 ---
 <!-- footer: "30 minutes" -->
+<style scoped>
+a {
+    font-size: 2em;
+    text-decoration: none;
+}
+</style>
 
-# **Hands-on session**
+# **Hands-on session 1**
 
-## Installation and  Exercises Part I
+## Scopes & closures, `null`, `undefined`, `console.dir()`, literal object notation, functions, `this`, `__proto__`
+
+# bit.ly/3b3Zwr1
 
 ---
 <!-- footer: "10 minutes" -->
@@ -117,14 +125,22 @@ a {
 
 # **Showcase**
 
-More crazy things about objects and classes
+## ES6 to the rescue: `class`, private attributes
 
 ---
 <!-- footer: "30 minutes" -->
+<style scoped>
+a {
+    font-size: 2em;
+    text-decoration: none;
+}
+</style>
 
-# **Hands-on session**
+# **Hands-on session 2**
 
-Installation and  Exercises Part I
+## Module pattern, self-executing function
+
+# bit.ly/3b3Zwr1
 
 ---
 <!-- footer: "15 minutes" -->
